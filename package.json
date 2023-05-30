@@ -1,0 +1,21 @@
+{
+  "name": "dervel-api",
+  "version": "0.0.1",
+  "description": "DERVEL-API: ERP in node.js without framework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test:dev": "node --test --watch test/",
+    "test": "node --test test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacksonLRD/dervel-api.git"
+  },
+  "author": "Jackson Purdeus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacksonLRD/dervel-api/issues"
+  },
+  "homepage": "https://github.com/JacksonLRD/dervel-api#readme"
+}
